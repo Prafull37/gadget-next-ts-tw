@@ -1,0 +1,124 @@
+{
+  "categories": [
+    {
+      "id": "0821000b-5d4b-4e32-aef0-ffc6c9ecb895",
+      "title": "Smartphones"
+    },
+    {
+      "id": "398f0918-e15c-4b67-8b17-36615e3a404f",
+      "title": "Tablets"
+    },
+    {
+      "id": "366263a2-d7c6-4d66-8401-e3f47623f301",
+      "title": "Laptops"
+    },
+    {
+      "id": "65deb29c-1c91-4aed-b9b8-9b179b1e9e65",
+      "title": "Desktops"
+    },
+    {
+      "id": "c5d9e89f-1664-4290-b903-f53734465ab3",
+      "title": "Monitors"
+    },
+    {
+      "id": "d2c848e4-e3f4-44d4-967c-d39be1e100e7",
+      "title": "Televisions"
+    },
+    {
+      "id": "d426da99-9318-4d8d-af48-9ab1fc0cf81b",
+      "title": "Smartwatches"
+    },
+    {
+      "id": "c9dd8b07-6233-4d52-b50f-bd125c49bf2f",
+      "title": "Fitness Trackers"
+    },
+    {
+      "id": "38da2038-aa00-4ad8-b3c5-37c5149acb34",
+      "title": "Cameras"
+    },
+    {
+      "id": "2b994026-28ac-401e-bf59-19ceb45798d9",
+      "title": "Camcorders"
+    },
+    {
+      "id": "f8999bb6-82a7-4510-abfc-5b125a9fb9b8",
+      "title": "Headphones"
+    },
+    {
+      "id": "d168306d-fa10-4bdc-a7da-d2203e5a7b36",
+      "title": "Earbuds"
+    },
+    {
+      "id": "b6c53f54-b2fd-4628-84a5-e4841cbd3c28",
+      "title": "Speakers"
+    },
+    {
+      "id": "63f5ae42-6691-47f6-a66f-9116563737a8",
+      "title": "Soundbars"
+    },
+    {
+      "id": "c705b0fa-9d54-4f18-b343-7e084302a1dc",
+      "title": "Home Theater Systems"
+    },
+    {
+      "id": "10f4c5a8-cd60-4581-9ece-b226e54ca79d",
+      "title": "Gaming Consoles"
+    },
+    {
+      "id": "d66dc978-86c8-4ebd-b935-6a6beb4c62c8",
+      "title": "Gaming Accessories"
+    },
+    {
+      "id": "1b8a906b-9b7d-4224-8b03-1a7454caf27e",
+      "title": "Printers"
+    },
+    {
+      "id": "02f6410c-4754-4c35-89cc-bafbc5214447",
+      "title": "Scanners"
+    },
+    {
+      "id": "f879280f-cceb-4f14-bed4-64958fbccec0",
+      "title": "External Hard Drives"
+    },
+    {
+      "id": "21cecbfc-a6f2-48c9-8797-05636ed34c84",
+      "title": "USB Flash Drives"
+    },
+    {
+      "id": "bfe39eb9-7962-4df4-a655-58fd3000282e",
+      "title": "Memory Cards"
+    },
+    {
+      "id": "b3ec89fe-ae21-47f3-9f4a-8de73b2b2604",
+      "title": "Routers"
+    },
+    {
+      "id": "cce6214e-baac-4042-bf18-5da00fabf121",
+      "title": "Modems"
+    },
+    {
+      "id": "f7470ab2-5265-4c85-9e38-7d32e55a7cae",
+      "title": "Smart Home Devices"
+    },
+    {
+      "id": "59770a3b-6846-4f06-8cd9-d6bd9bba846a",
+      "title": "Drones"
+    },
+    {
+      "id": "f2fc9075-e17b-4957-a8c4-e486721b2bda",
+      "title": "Wearable Tech"
+    },
+    {
+      "id": "978b66bd-4f8c-442d-a7da-8a59480076a0",
+      "title": "VR Headsets"
+    },
+    {
+      "id": "2ed89706-44eb-41fa-b599-244d7bce6369",
+      "title": "Projectors"
+    },
+    {
+      "id": "6b33c256-22f7-49c9-b7ce-a042cca4227e",
+      "title": "Bluetooth Trackers"
+    }
+  ]
+}

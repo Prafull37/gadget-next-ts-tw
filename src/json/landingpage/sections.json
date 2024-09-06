@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "banners": {
+      "first": {
+        "srcSet": {
+          "mobile": "/images/banners/mobile/first.webp",
+          "tablet": "/images/banners/tablet/first.webp",
+          "desktop": "/images/banners/desktop/first.webp"
+        },
+        "url": "/"
+      },
+      "second": {
+        "id": "third",
+        "srcSet": {
+          "mobile": "/images/banners/mobile/laptops.webp",
+          "tablet": "/images/banners/tablet/laptops.webp",
+          "desktop": "/images/banners/desktop/laptops.webp"
+        },
+        "url": "/"
+      },
+      "third": {
+        "id": "fourth",
+        "srcSet": {
+          "mobile": "",
+          "tablet": "",
+          "desktop": "/images/banners/mobile/laptop44900.webp"
+        },
+        "url": "/"
+      },
+      "fourth": {
+        "id": "fifth",
+        "srcSet": {
+          "mobile": "",
+          "tablet": "",
+          "desktop": "/images/banners/mobile/earbud.webp"
+        },
+        "url": "/"
+      },
+      "fifth": {
+        "id": "sixth",
+        "srcSet": {
+          "mobile": "/images/banners/mobile/watches.webp",
+          "tablet": "/images/banners/tablet/watches.webp",
+          "desktop": "/images/banners/desktop/watches.webp"
+        },
+        "url": "/"
+      },
+      "sixth": {
+        "id": "seventh",
+        "srcSet": {
+          "mobile": "/images/banners/mobile/mobiles.webp",
+          "tablet": "/images/banners/tablet/mobiles.webp",
+          "desktop": ""
+        },
+        "url": "/"
+      },
+      "seventh": {
+        "id": "eigth",
+        "srcSet": {
+          "mobile": "/images/banners/mobile/mobiles.webp",
+          "tablet": "",
+          "desktop": ""
+        },
+        "url": "/"
+      },
+      "eighth": {
+        "id": "nineth",
+        "srcSet": {
+          "mobile": "/images/banners/mobile/referigators.webp",
+          "tablet": "/images/banners/tablet/referigators.webp",
+          "desktop": ""
+        },
+        "url": "/"
+      },
+      "nineth": {
+        "id": "tenth",
+        "srcSet": {
+          "mobile": "/images/banners/mobile/tablets.webp",
+          "tablet": "",
+          "desktop": ""
+        },
+        "url": "/"
+      }
+    },
+    "categories": {
+      "title": "Top Categories",
+      "type": "categoryButton",
+      "value": [
+        "0821000b-5d4b-4e32-aef0-ffc6c9ecb895",
+        "398f0918-e15c-4b67-8b17-36615e3a404f",
+        "366263a2-d7c6-4d66-8401-e3f47623f301",
+        "d2c848e4-e3f4-44d4-967c-d39be1e100e7"
+      ]
+    },
+    "smartphones": {
+      "title": "Best Deals On Smartphones",
+      "type": "personalized",
+      "noOfcategoriesItemToDisplayRandomly": {
+        "0821000b-5d4b-4e32-aef0-ffc6c9ecb895": 4
+      },
+      "redirectionUrl": "/"
+    },
+    "tablet": {
+      "title": "Best Sellers on Tablets",
+      "type": "personalized",
+      "noOfcategoriesItemToDisplayRandomly": {
+        "398f0918-e15c-4b67-8b17-36615e3a404f": 4
+      },
+      "redirectionUrl": "/"
+    },
+    "wearables": {
+      "title": "Wearables",
+      "type": "personalized",
+      "noOfcategoriesItemToDisplayRandomly": {
+        "d426da99-9318-4d8d-af48-9ab1fc0cf81b": 2,
+        "c9dd8b07-6233-4d52-b50f-bd125c49bf2f": 3,
+        "f8999bb6-82a7-4510-abfc-5b125a9fb9b8": 1,
+        "d168306d-fa10-4bdc-a7da-d2203e5a7b36": 3
+      },
+      "redirectionUrl": "/"
+    },
+    "soundbars": {
+      "title": "Party🎉 Ki Jaan",
+      "type": "personalized",
+      "noOfcategoriesItemToDisplayRandomly": {
+        "b6c53f54-b2fd-4628-84a5-e4841cbd3c28": 2,
+        "63f5ae42-6691-47f6-a66f-9116563737a8": 3,
+        "c705b0fa-9d54-4f18-b343-7e084302a1dc": 1
+      },
+      "redirectionUrl": "/"
+    },
+    "handpickeditems": {
+      "title": "HandPicked Items For You",
+      "type": "personalized",
+      "itemsToDisplay": [
+        "c312ab86-e85e-45db-ad2a-2386be93f724",
+        "9b9c44e8-08a9-4e4d-b4ed-ab9e82ed97d5",
+        "2109f6ab-a9dc-4238-8010-bc12ec3eb37b",
+        "eba0d6dc-0626-4f1e-a08c-eb5598ca57d4",
+        "59e17a81-ca97-4ef0-bec9-2cb2b4ebfa5f",
+        "5c5d0679-f753-47b0-aeba-54bbd717e3c6",
+        "16aa9f85-d219-40ef-94dc-b38f0ae86bcd"
+      ],
+      "redirectionUrl": "/"
+    },
+    "vrheadset": {
+      "title": "Dive Into Metaverse",
+      "type": "personalized",
+      "noOfcategoriesItemToDisplayRandomly": {
+        "978b66bd-4f8c-442d-a7da-8a59480076a0": 4
+      },
+      "redirectionUrl": "/"
+    },
+    "drones": {
+      "title": "Drones Recommended By World",
+      "type": "personalized",
+      "noOfcategoriesItemToDisplayRandomly": {
+        "59770a3b-6846-4f06-8cd9-d6bd9bba846a": 4
+      },
+      "redirectionUrl": "/"
+    }
+  }
+}
