@@ -27,6 +27,7 @@ function filterBanners(data, deviceTypes) {
 
 export function GET(req: NextRequest) {
   const { device } = userAgent(req);
+  console.log("coming here...")
   const applicableDeviceType =
     device.type === 'mobile' || device.type === 'tablet'
       ? ['mobile', 'tablet']

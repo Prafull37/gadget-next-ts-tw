@@ -8,6 +8,7 @@ export async function GET(
   req: NextRequest,
   { params }: { params: { id: string } }
 ) {
+  console.log("invoked this...")
   try {
     const { id } = params;
     const reviews = reviewDb.getReviewsByProductId(id);
